@@ -42,7 +42,7 @@ st.markdown("""
     }
     .birthday-message {
         font-size: 1.1em; /* Adjusted for mobile readability */
-        color: #F2F0EF;
+        color: #B6FCD5;
         margin-top: 15px;
         margin-bottom: 15px;
         line-height: 1.4;
@@ -137,3 +137,4 @@ st.markdown("<br><br>", unsafe_allow_html=True)
 st.write("---")
 
 st.write("Crafted with ❤️ for Raju on his special day.")
+
